@@ -1,4 +1,4 @@
-module crawshaw.io/sqlite
+module shengyao/go-sqlite-driver
 
 go 1.12
 
