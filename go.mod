@@ -1,4 +1,4 @@
-module shengyao/go-sqlite-driver
+module github.com/shengyao/go-sqlite-driver
 
 go 1.12
 
